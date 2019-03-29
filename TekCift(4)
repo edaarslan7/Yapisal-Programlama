@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-///Kullanıcıdan girilen sayinin birler ve onlar basamaginin toplami çift mi tek mi. sayi 4 basamakli olmali.
+///KullanÄ±cÄ±dan girilen sayinin birler ve onlar basamaginin toplami Ã§ift mi tek mi. sayi 4 basamakli olmali.
 int main()
 {
     int sayi;
