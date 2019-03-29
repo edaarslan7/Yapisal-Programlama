@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-///Kullanıcının klavyeden girdiği AY numarasına göre, o ayın kaç günden oluştuğunu ekrana yazan bir C programı yazınız.
+///KullanÄ±cÄ±nÄ±n klavyeden girdiÄŸi AY numarasÄ±na gÃ¶re, o ayÄ±n kaÃ§ gÃ¼nden oluÅŸtuÄŸunu ekrana yazan bir C programÄ± yazÄ±nÄ±z.
 int main()
 {
     int ay;
