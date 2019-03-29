@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-/// Klavyeden girilen basari notuna göre ögrencinin harf notu karsiligini yazdiran bir program
+/// Klavyeden girilen basari notuna gÃ¶re Ã¶grencinin harf notu karsiligini yazdiran bir program
 int main()
 {
     int a;
