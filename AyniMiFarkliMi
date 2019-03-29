@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 ///Rakamlari birbirinden farkli uc basamakli sayilari ve adedini ekrana yazdirma
+///Rakamlari ayni olan sayilari ve adedini yazdirma
 
 int main()
 {
