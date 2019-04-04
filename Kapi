@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
-///100 kapi var kapilar kilitli 1den 20ye kadar anahtar var kapi numarasi anahtar numarasini boluyorsa anahtar kapıyı aciyor
-///ya da kapatıyor 20.turun sonunda hangi kapilar acik hangileri kapali
+///100 kapi var kapilar kilitli 1den 20ye kadar anahtar var kapi numarasi anahtar numarasini boluyorsa anahtar kapÄ±yÄ± aciyor
+///ya da kapatÄ±yor 20.turun sonunda hangi kapilar acik hangileri kapali
 
 
 int main()
