@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 ///deger degistirme
-///call by reference(adresle gönderme)
+///call by reference(adresle gÃ¶nderme)
 
 void degistir(int *a,int *b)
 {
