@@ -12,7 +12,7 @@ int main()
 
     int *arrayp;
 
-    ap=&a; ///ap int a nın adresini tutuyor
+    ap=&a; ///ap int a nÄ±n adresini tutuyor
     bp=&b;
     cp=&c;
     dp=&d;
